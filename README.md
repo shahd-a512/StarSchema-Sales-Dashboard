@@ -9,7 +9,7 @@ This dashboard is powered by a **Star Schema** model in Power BI, enabling clean
 - `DimCustomer`: Customer and demographic information
 - `DimEmployee`: Sales reps and employee data
 - `DimDate`: Calendar table for time-based analysis
-- `DimCity`: Geographic locations (city/state/province)
+- `DimCity`: Geographic locations (city/state)
 - `DimStockItem`: Product and packaging info
 
 This modeling structure improves:
